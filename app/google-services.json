@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "597015178607",
+    "project_id": "image-detector-403ca",
+    "storage_bucket": "image-detector-403ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597015178607:android:44f47acc01b1616cdd0c9a",
+        "android_client_info": {
+          "package_name": "com.example.imageclassify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597015178607-t2eb0juiaktuoq54csu259oebo1d70se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-ncRgQow7qugdp9dRpHnH29ERODzSks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597015178607-t2eb0juiaktuoq54csu259oebo1d70se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597015178607:android:eecd9d7724a1bee0dd0c9a",
+        "android_client_info": {
+          "package_name": "com.example.imagedetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597015178607-t2eb0juiaktuoq54csu259oebo1d70se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL-ncRgQow7qugdp9dRpHnH29ERODzSks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597015178607-t2eb0juiaktuoq54csu259oebo1d70se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
